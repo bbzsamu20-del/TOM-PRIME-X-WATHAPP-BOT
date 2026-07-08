@@ -1,18 +1,18 @@
 /**
- * Global Configuration for WhatsApp MD Bot
+ * Global Configuration for WhatsApp Tom Bot
  */
 
 module.exports = {
     // Bot Owner Configuration
-    ownerNumber: ['8801914138474'], // Your Bot number without + or spaces
-    ownerName: ['Tom Prime X', 'Professor'], // Owner names corresponding to ownerNumber array
+    ownerNumber: ['8801791903810'], // Your Bot number without + or spaces
+    ownerName: ['Tom Prime X'], // Owner names corresponding to ownerNumber array
     
     // Bot Configuration
     botName: 'Tom Bot Mini',
     prefix: '.',
-    sessionName: 'session',
+    sessionName: '𝐱-мιηι-вσт-typy258toxicevilbrand25780533',
     sessionID: process.env.SESSION_ID || '',
-    newsletterJid: '120363403719538106@newsletter', // Newsletter JID for menu forwarding
+    newsletterJid: '120363403719538106@newsletter',
     updateZipUrl: 'https://github.com/TOM-PRIME-X-MINI-BOT/TOM-PRIME-X-WATHAPP-BOT/archive/refs/heads/main.zip', // URL to latest code zip for .update command
     
     // Sticker Configuration
