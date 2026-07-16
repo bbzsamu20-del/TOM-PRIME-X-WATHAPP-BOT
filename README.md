@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000,100:00ff88&height=120&section=header&text=TOM%20PRIME%20X%20WHATSAPP%20BOT&fontSize=40&fontColor=ffffff&fontAlignY=50&animation=twinkling" alt="TOM PRIME X WHATSAPP BOT"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000,100:00ff88&height=120&section=header&text=TOM%20PRIME%20X%20WHATSAPP%20BOT&fontSize=40&fontColor=ffffff&fontAlignY=50&animation=twinkling" alt="TOM PRIME X MINI BOT"/>
 </div>
 
 <p align="center">
   <img src="https://i.postimg.cc/DyqKStwP/IMG-20260410-WA0057.png" width="250" height="250" alt="TOM-PRIME-X-MINI" style="border-radius:50%; border:3px solid #00ff88;">
 </p>
 
-<h1 align="center"><font color="#00ff88">💠 𝐓𝐎𝐌-𝐏𝐑𝐈𝐌𝐄-𝐗-𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏-𝐁𝐎𝐓 💠</font></h1>
+<h1 align="center"><font color="#00ff88">💠 𝐓𝐎𝐌-𝐏𝐑𝐈𝐌𝐄-𝐗-MINI-𝐁𝐎𝐓 💠</font></h1>
 
 <p align="center">
   <font color="#00d26a"><i>"Unleash the Power of Minimalism."</i></font><br>
